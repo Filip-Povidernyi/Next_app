@@ -2,7 +2,7 @@ import React from "react";
 
 export enum Status {
     Active = 'Active',
-    NotActive = 'notActive',
+    NotActive = 'NotActive',
     Pending = 'Pending',
     Suspended = 'Suspended'
 }
